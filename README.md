@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Brum! 👋
 
-Desenvolvedor Full Stack Jr e Residente tecnológico em Desenvolvimento de Software Back-End. Apaixonado por Coding, videogame, cozinha e música.
+Desenvolvedor Full Stack Jr e Residente tecnológico em Desenvolvimento de Software Front-End. Apaixonado por Coding, videogame, cozinha e música.
 Atualmente estudando/trabalhando com HTML, CSS e Javascript.
 
 ## 🛠 Tecnologias
