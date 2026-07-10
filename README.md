@@ -47,5 +47,5 @@ Atualmente estudando/trabalhando com HTML, CSS e Javascript.
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://instagram.com/psicosleazy)<br>
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-brum)<br>
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)(https://x.com/psicosleazy)<br>
-:email: lucasmatheus.brumm@hotmail.com
+:email: lucasmatheus.brumm@hotmail.com<br>
 :page_with_curl: em breve!
